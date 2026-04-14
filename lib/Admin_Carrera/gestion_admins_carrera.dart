@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'admin_carrera_service.dart';
-import '/admin/logica/filiales_service.dart';
+import 'package:eventos/admin/logica/filiales_service.dart';
 
 class GestionAdminsCarreraScreen extends StatefulWidget {
   const GestionAdminsCarreraScreen({super.key});

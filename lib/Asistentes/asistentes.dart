@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import '/prefs_helper.dart';
-import '/login.dart';
-import '/admin/interfaz/generar_qr_screen.dart';
+import 'package:eventos/prefs_helper.dart';
+import 'package:eventos/login.dart';
+import 'package:eventos/admin/interfaz/generar_qr_screen.dart';
 
 class AsistentesScreen extends StatefulWidget {
   const AsistentesScreen({super.key});

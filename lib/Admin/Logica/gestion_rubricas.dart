@@ -4,7 +4,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'gestion_criterios.dart';
-import 'filiales_service.dart';
 
 // ============================================================================
 // PANTALLA PRINCIPAL - CON FILTROS DE FILIAL

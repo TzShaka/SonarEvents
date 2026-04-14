@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '/prefs_helper.dart';
-import '/login.dart';
+import 'package:eventos/prefs_helper.dart';
+import 'package:eventos/login.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'perfil.dart';
 import 'escanear_qr.dart';

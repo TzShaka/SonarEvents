@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import '/prefs_helper.dart';
-import '/admin/logica/gestion_criterios.dart';
+import 'package:eventos/prefs_helper.dart';
+import 'package:eventos/admin/logica/gestion_criterios.dart';
 
 /// Versión de AsignarProyectos para Admin de Carrera.
 /// Carga filial/facultad/carrera automáticamente desde la sesión.

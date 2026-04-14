@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import '/admin/logica/gestion_criterios.dart';
+import 'package:eventos/admin/logica/gestion_criterios.dart';
 import 'reportes_evaluaciones_excel.dart';
 
 class ReportesEvaluacionesScreen extends StatefulWidget {

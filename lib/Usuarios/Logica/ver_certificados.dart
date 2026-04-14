@@ -2,8 +2,8 @@ import 'dart:typed_data';
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:printing/printing.dart';
-import '/prefs_helper.dart';
-import '/admin_Carrera/certificado_builder.dart';
+import 'package:eventos/prefs_helper.dart';
+import 'package:eventos/admin_Carrera/certificado_builder.dart';
 
 // ─────────────────────────────────────────────────────────────────────────────
 // CONSTANTES DE COLOR — evita crear objetos Color en cada build()

@@ -5,12 +5,12 @@ import 'package:app_links/app_links.dart';
 import 'dart:async';
 import 'dart:convert';
 import 'firebase_options.dart';
-import '/login.dart';
-import '/admin/logica/admin.dart';
-import '/usuarios/logica/estudiante.dart';
-import '/Asistentes/asistentes.dart';
-import '/Jurados/jurados.dart';
-import '/prefs_helper.dart';
+import 'package:eventos/login.dart';
+import 'package:eventos/admin/logica/admin.dart';
+import 'package:eventos/usuarios/logica/estudiante.dart';
+import 'package:eventos/Asistentes/asistentes.dart';
+import 'package:eventos/Jurados/jurados.dart';
+import 'package:eventos/prefs_helper.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

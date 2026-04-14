@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'asistencias_estudiantes_resultados.dart';
-import 'filiales_service.dart';
 import 'gestion_criterios.dart';
 
 class AsistenciasEstudiantesScreen extends StatefulWidget {

@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
-import '/prefs_helper.dart';
-import '/Admin/logica/admin.dart';
-import '/usuarios/logica/estudiante.dart';
-import '/Asistentes/asistentes.dart';
-import '/Jurados/jurados.dart';
-import '/admin_carrera/admin_carrera_service.dart';
-import '/admin_carrera/admin_carrera_screen.dart';
+import 'package:eventos/prefs_helper.dart';
+import 'package:eventos/Admin/logica/admin.dart';
+import 'package:eventos/usuarios/logica/estudiante.dart';
+import 'package:eventos/Asistentes/asistentes.dart';
+import 'package:eventos/Jurados/jurados.dart';
+import 'package:eventos/admin_carrera/admin_carrera_service.dart';
+import 'package:eventos/admin_carrera/admin_carrera_screen.dart';
 
 
 class LoginScreen extends StatefulWidget {

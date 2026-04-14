@@ -1,6 +1,6 @@
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import '/admin/logica/filiales_service.dart';
+import 'package:eventos/admin/logica/filiales_service.dart';
 
 class PrefsHelper {
   static const String userTypeAdminCarrera = 'admin_carrera';

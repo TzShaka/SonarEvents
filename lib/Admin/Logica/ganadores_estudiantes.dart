@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import '/prefs_helper.dart';
+import 'package:eventos/prefs_helper.dart';
 import 'reportes_ganadores_excel.dart';
-import 'filiales_service.dart'; // ✅ IMPORTAR
 import 'gestion_criterios.dart'; // ✅ IMPORTAR
 
 class GanadoresEstudiantesScreen extends StatefulWidget {

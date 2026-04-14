@@ -2,7 +2,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:printing/printing.dart';
-import '/prefs_helper.dart';
+import 'package:eventos/prefs_helper.dart';
 import 'certificado_builder.dart';
 
 // ─────────────────────────────────────────────────────────────────────────────

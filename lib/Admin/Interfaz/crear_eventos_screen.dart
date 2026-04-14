@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:eventos/Admin/logica/eventos_detalles.dart';
-import 'package:eventos/Admin/logica/crear_eventos.dart';
-import 'package:eventos/Admin/logica/periodos_helper.dart';
+import 'package:eventos/admin/logica/eventos_detalles.dart';
+import 'package:eventos/admin/logica/crear_eventos.dart';
+import 'package:eventos/admin/logica/periodos_helper.dart';
 
 class CrearEventosScreen extends StatefulWidget {
   const CrearEventosScreen({super.key});

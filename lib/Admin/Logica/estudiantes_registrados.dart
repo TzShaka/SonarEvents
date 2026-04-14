@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '/prefs_helper.dart';
+import 'package:eventos/prefs_helper.dart';
 
 class EstudiantesRegistradosScreen extends StatefulWidget {
   const EstudiantesRegistradosScreen({super.key});

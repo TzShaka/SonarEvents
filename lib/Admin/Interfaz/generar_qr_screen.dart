@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:eventos/Admin/logica/generar_qr.dart';
+import 'package:eventos/admin/logica/generar_qr.dart';
 import 'proyectos_categoria_screen.dart';
 
 class GenerarQRScreen extends StatefulWidget {

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import '/prefs_helper.dart';
+import 'package:eventos/prefs_helper.dart';
 
 class GestionSesionesScreen extends StatefulWidget {
   const GestionSesionesScreen({super.key});

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import '/prefs_helper.dart';
-import '/login.dart';
+import 'package:eventos/prefs_helper.dart';
+import 'package:eventos/login.dart';
 import 'registro_estudiantes.dart';
-import '/admin/interfaz/crear_eventos_screen.dart';
+import 'package:eventos/admin/interfaz/crear_eventos_screen.dart';
 import 'gestion_grupos.dart';
 
 import 'reportes.dart';
@@ -12,7 +12,7 @@ import 'gestion_rubricas.dart';
 import 'evaluaciones.dart';
 import 'editar_admin.dart';
 import 'crear_filiales.dart';
-import '/admin_carrera/gestion_admins_carrera.dart';
+import 'package:eventos/admin_carrera/gestion_admins_carrera.dart';
 
 class AdminScreen extends StatefulWidget {
   const AdminScreen({super.key});

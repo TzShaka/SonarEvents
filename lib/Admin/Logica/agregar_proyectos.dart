@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '/admin/logica/grupos.dart';
+import 'package:eventos/admin/logica/grupos.dart';
 
 class AgregarProyectoScreen extends StatefulWidget {
   final Map<String, dynamic> eventData;

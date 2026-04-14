@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import '/prefs_helper.dart';
-import '/admin/logica/gestion_criterios.dart';
+import 'package:eventos/prefs_helper.dart';
+import 'package:eventos/admin/logica/gestion_criterios.dart';
 
 /// Versión de GestionRubricas para Admin de Carrera.
 /// Carga filial/facultad/carrera automáticamente desde la sesión.

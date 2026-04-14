@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:mobile_scanner/mobile_scanner.dart';
 import 'dart:convert';
-import '/prefs_helper.dart';
-import '/usuarios/logica/asistencias.dart';
+import 'package:eventos/prefs_helper.dart';
+import 'package:eventos/usuarios/logica/asistencias.dart';
 
 class EscanearQRScreen extends StatefulWidget {
   const EscanearQRScreen({super.key});

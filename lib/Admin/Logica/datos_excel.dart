@@ -3,7 +3,7 @@ import 'package:file_picker/file_picker.dart';
 import 'package:excel/excel.dart' as excel_pkg;
 import 'dart:io';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import '/prefs_helper.dart';
+import 'package:eventos/prefs_helper.dart';
 
 class StudentGroup {
   final String normalizedName;

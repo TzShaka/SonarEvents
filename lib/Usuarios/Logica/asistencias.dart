@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import '/prefs_helper.dart';
-import '/admin/logica/periodos_helper.dart';
+import 'package:eventos/prefs_helper.dart';
+import 'package:eventos/admin/logica/periodos_helper.dart';
 import 'dart:math' as math;
 
 class AsistenciasScreen extends StatefulWidget {

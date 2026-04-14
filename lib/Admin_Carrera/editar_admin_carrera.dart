@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '/prefs_helper.dart';
+import 'package:eventos/prefs_helper.dart';
 import 'admin_carrera_service.dart';
 
 class EditarAdminCarreraScreen extends StatefulWidget {

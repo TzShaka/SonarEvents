@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import '/prefs_helper.dart';
+import 'package:eventos/prefs_helper.dart';
 
 /// Gestión de Jurados para Admin de Carrera.
 /// Carga filial/facultad/carrera automáticamente desde la sesión.

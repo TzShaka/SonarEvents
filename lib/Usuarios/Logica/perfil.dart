@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '/prefs_helper.dart';
+import 'package:eventos/prefs_helper.dart';
 
 class PerfilScreen extends StatefulWidget {
   /// En producción déjalo en null. En tests pasa los datos directamente

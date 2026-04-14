@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import '/prefs_helper.dart';
-import '/login.dart';
-import '/admin/logica/registro_estudiantes.dart';
-import '/admin/logica/reportes.dart';
-import '/admin/logica/evaluaciones.dart';
+import 'package:eventos/prefs_helper.dart';
+import 'package:eventos/login.dart';
+import 'package:eventos/admin/logica/registro_estudiantes.dart';
+import 'package:eventos/admin/logica/reportes.dart';
+import 'package:eventos/admin/logica/evaluaciones.dart';
 import 'editar_admin_carrera.dart';
 import 'crear_eventos_carrera_screen.dart';
 import 'gestion_grupos_carrera_screen.dart';

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '/prefs_helper.dart';
+import 'package:eventos/prefs_helper.dart';
 import 'asistencias_estudiantes.dart';
 import 'ganadores_estudiantes.dart';
 import 'evaluaciones_general_excel.dart';
