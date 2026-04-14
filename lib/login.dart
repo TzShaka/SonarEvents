@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
 import 'package:eventos/prefs_helper.dart';
-import 'package:eventos/Admin/logica/admin.dart';
+import 'package:eventos/admin/logica/admin.dart';
 import 'package:eventos/usuarios/logica/estudiante.dart';
 import 'package:eventos/Asistentes/asistentes.dart';
 import 'package:eventos/Jurados/jurados.dart';
